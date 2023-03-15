@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: 6d29681167d6e584e8f5510cec82ef41
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Basic Charakter Actions_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 544
+        width: 14
+        height: 25
+      alignment: 9
+      pivot: {x: 0.4990726, y: 0.13825683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0ea333126f90c4fa3c48f0d976340e
+      internalID: 622228352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 541
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 0.48762566, y: 0.33463356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e297d03582caf468fcd06d712f63ef
+      internalID: -1358059635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 496
+        width: 14
+        height: 25
+      alignment: 9
+      pivot: {x: 0.50922614, y: 0.076552734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3f328a659f908458f3949635fbf365
+      internalID: 2037004167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 498
+        width: 14
+        height: 18
+      alignment: 9
+      pivot: {x: 0.50886697, y: 0.20303684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d025c7321ff9f8f4cb446b94197e57b6
+      internalID: 72711141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 448
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.35825115, y: 0.09160105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250d5f028835e0247bbb257582dff342
+      internalID: -581125247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 447
+        width: 18
+        height: 17
+      alignment: 9
+      pivot: {x: 0.7114093, y: 0.15272252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b0330f6e0de2448bcffe05d47934b2
+      internalID: 1014139253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 400
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.64212674, y: 0.053782146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc6741817eb2e1408705ab352e62ad5
+      internalID: -957746227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 399
+        width: 18
+        height: 17
+      alignment: 9
+      pivot: {x: 0.29809442, y: 0.12556009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f863138ff434348889d1f1333cfb0a
+      internalID: -853806951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 353
+        width: 21
+        height: 18
+      alignment: 9
+      pivot: {x: 0.6573171, y: 0.12314521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7649f5183b205874699f5df47a0011fa
+      internalID: 77351233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 347
+        width: 15
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5403895, y: 0.3538333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2462f65cfebdf4ab3d765dfb7ee418
+      internalID: 2126623968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 298
+        width: 22
+        height: 21
+      alignment: 9
+      pivot: {x: 0.31123266, y: 0.3670916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a52dfce5af7ded4caa71f03e1096fe5
+      internalID: 467951257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 304
+        width: 14
+        height: 23
+      alignment: 9
+      pivot: {x: 0.51516396, y: 0.117716916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827310e22b662dc4daf60329ceb83bd4
+      internalID: -302997953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 256
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.22488876, y: 0.13799286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9831738272f7644af43c5a83b2a2df
+      internalID: -183588549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 255
+        width: 22
+        height: 18
+      alignment: 9
+      pivot: {x: 0.7495356, y: 0.19900852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44951a43f20c86429fa5fd6ccd39abc
+      internalID: -2029965450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 208
+        width: 19
+        height: 16
+      alignment: 9
+      pivot: {x: 0.7177877, y: 0.09492111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be49350c1de6404c8635a999e51562b
+      internalID: -935489970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 207
+        width: 22
+        height: 18
+      alignment: 9
+      pivot: {x: 0.26011485, y: 0.18143803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06287f4be1c7ab0408d236897645270b
+      internalID: 1774710857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 158
+        width: 16
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5543152, y: 0.1864597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36723b3d3e0e7c24fa0f932cf54cd1e1
+      internalID: 1247649952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 160
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5620742, y: 0.11605496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b170b9eb21d7f43b1cc720446c3053
+      internalID: 59563909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 112
+        width: 16
+        height: 14
+      alignment: 9
+      pivot: {x: 0.4446684, y: 0.090893336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fe70fcfc14f7343974f9d3218c34ac
+      internalID: -940763139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 112
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.45242214, y: 0.115090504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670b0ab82fa39a9429a1c693aaa13696
+      internalID: 1535226652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 64
+        width: 27
+        height: 14
+      alignment: 9
+      pivot: {x: 0.7956248, y: 0.08237403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dee7455922b354e972aaaafcaba61a
+      internalID: -704410577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 64
+        width: 26
+        height: 18
+      alignment: 9
+      pivot: {x: 0.81446165, y: 0.0359247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0af2eb148985749b371246bf03fae1
+      internalID: -280301392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 16
+        width: 27
+        height: 14
+      alignment: 9
+      pivot: {x: 0.19584274, y: 0.14625181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51940b819c67b0543a16b6be9a5c8912
+      internalID: -1988170698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Actions_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 16
+        width: 26
+        height: 18
+      alignment: 9
+      pivot: {x: 0.1966139, y: 0.096601486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61009e70d5278524cabd3d22e50455af
+      internalID: 39612433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -31, y: -43}
+      - {x: -31, y: -16}
+      - {x: -5, y: -16}
+      - {x: -5, y: -43}
+    - - {x: -31, y: 256}
+      - {x: -31, y: 281}
+      - {x: -17, y: 281}
+      - {x: -17, y: 256}
+    - - {x: 17, y: 253}
+      - {x: 17, y: 275}
+      - {x: 31, y: 275}
+      - {x: 31, y: 253}
+    - - {x: -31, y: 208}
+      - {x: -31, y: 233}
+      - {x: -17, y: 233}
+      - {x: -17, y: 208}
+    - - {x: 17, y: 210}
+      - {x: 17, y: 228}
+      - {x: 31, y: 228}
+      - {x: 31, y: 210}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Basic Charakter Actions_4: -581125247
+      Basic Charakter Actions_0: 622228352
+      Basic Charakter Actions_22: 59563909
+      Basic Charakter Actions_31: 39612433
+      Basic Charakter Actions_16: -2029965450
+      Basic Charakter Actions_32: -658142101
+      Basic Charakter Actions_1: -1358059635
+      Basic Charakter Actions_17: 859955331
+      Basic Charakter Actions_6: -957746227
+      Basic Charakter Actions_13: -183588549
+      Basic Charakter Actions_9: 2126623968
+      Basic Charakter Actions_15: 1423200719
+      Basic Charakter Actions_19: 1774710857
+      Basic Charakter Actions_24: 1535226652
+      Basic Charakter Actions_25: -509686879
+      Basic Charakter Actions_10: 467951257
+      Basic Charakter Actions_28: -280301392
+      Basic Charakter Actions_3: 72711141
+      Basic Charakter Actions_2: 2037004167
+      Basic Charakter Actions_29: -1988170698
+      Basic Charakter Actions_5: 1014139253
+      Basic Charakter Actions_21: 1247649952
+      Basic Charakter Actions_11: -46311843
+      Basic Charakter Actions_26: -704410577
+      Basic Charakter Actions_20: 526901805
+      Basic Charakter Actions_12: -302997953
+      Basic Charakter Actions_14: 2128073792
+      Basic Charakter Actions_7: -853806951
+      Basic Charakter Actions_23: -940763139
+      Basic Charakter Actions_30: -270015352
+      Basic Charakter Actions_27: 1800410103
+      Basic Charakter Actions_8: 77351233
+      Basic Charakter Actions_18: -935489970
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
